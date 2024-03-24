@@ -1,1 +1,1 @@
-# 2023ESWContest_humanoid_2010_final
+# 2023 임베디드 소프트웨어 경진대회 HEC팀 결승전 소스 코드입니다 
